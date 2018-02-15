@@ -1,5 +1,5 @@
 <html>
     <body>
-        Teste
+        <p>Teste</p>
     </body>
 </html>
